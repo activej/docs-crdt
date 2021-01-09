@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://crdt.activej.io/sitemap.xml
